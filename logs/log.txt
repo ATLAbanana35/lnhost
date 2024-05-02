@@ -1,0 +1,472 @@
+2024-02-14 19:13:04 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:209 (<module>): Server started http://localhost:8080
+2024-02-14 19:15:04 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-14 19:15:04 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:85 (do_GET): E: WONG apiKey GET param ! 
+2024-02-14 19:16:16 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-14 19:16:16 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:85 (do_GET): E: WONG apiKey GET param ! 
+2024-02-14 19:17:34 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-14 19:17:34 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.
+2024-02-14 19:21:17 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:215 (<module>): Server stopped
+2024-02-14 19:22:59 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:209 (<module>): Server started http://localhost:8080
+2024-02-14 19:24:30 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-14 19:24:30 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.
+2024-02-14 19:28:55 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:215 (<module>): Server stopped
+2024-02-14 19:31:49 - /mnt/c/Users/lyamz/programs/wampserver/www/lnhost/backend/server.py:209 (<module>): Server started http://localhost:8080
+2024-02-15 21:17:04 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:17:13 - /mnt/e/Projects/www/lnhost/backend/server.py:97 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 21:17:13 - /mnt/e/Projects/www/lnhost/backend/server.py:130 (do_GET): E: Already installed.
+2024-02-15 21:17:18 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:17:32 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:17:41 - /mnt/e/Projects/www/lnhost/backend/server.py:97 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 21:17:41 - /mnt/e/Projects/www/lnhost/backend/server.py:130 (do_GET): E: Already installed.
+2024-02-15 21:19:10 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:19:10 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:19:41 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:19:45 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:19:50 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:19:50 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:20:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:22:14 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:22:25 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:22:25 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:25:10 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:26:24 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:27:22 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:27:22 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 21:27:25 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:27:45 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:27:53 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:27:53 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:29:08 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:30:20 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:30:44 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:30:44 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:32:41 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:32:43 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:32:53 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:32:53 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:33:10 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:33:10 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:33:27 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:33:27 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:34:32 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:34:32 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:34:47 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:34:48 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:35:12 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:35:12 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 21:35:37 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:35:37 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:35:55 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:35:57 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:36:12 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:36:12 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:37:00 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:37:01 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:37:16 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:37:16 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:39:02 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:39:02 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:39:34 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:39:34 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 21:39:52 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:39:53 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:40:13 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:40:13 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:40:57 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:41:07 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:41:07 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:41:47 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:41:48 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:41:56 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:41:56 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 21:41:58 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:41:59 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:42:19 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:42:19 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:46:44 - /mnt/e/Projects/www/lnhost/backend/server.py:97 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 21:46:44 - /mnt/e/Projects/www/lnhost/backend/server.py:107 (do_GET): Executing setup_kchat command.tmp
+2024-02-15 21:49:21 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:49:22 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:49:23 - /mnt/e/Projects/www/lnhost/backend/server.py:97 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 21:49:23 - /mnt/e/Projects/www/lnhost/backend/server.py:107 (do_GET): Executing setup_kchat command.tmp
+2024-02-15 21:49:45 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:49:52 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:50:00 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 21:50:00 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 21:50:34 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:50:45 - /mnt/e/Projects/www/lnhost/backend/server.py:257 (<module>): Server started http://localhost:8080
+2024-02-15 21:51:00 - /mnt/e/Projects/www/lnhost/backend/server.py:97 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 21:51:00 - /mnt/e/Projects/www/lnhost/backend/server.py:107 (do_GET): Executing setup_kchat command.tmp
+2024-02-15 21:52:31 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (<module>): Server stopped
+2024-02-15 21:52:31 - /mnt/e/Projects/www/lnhost/backend/server.py:260 (<module>): Server started http://localhost:8080
+2024-02-15 21:57:35 - /mnt/e/Projects/www/lnhost/backend/server.py:266 (<module>): Server stopped
+2024-02-15 21:57:36 - /mnt/e/Projects/www/lnhost/backend/server.py:311 (<module>): Server started http://localhost:8080
+2024-02-15 21:57:46 - /mnt/e/Projects/www/lnhost/backend/server.py:151 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 21:57:46 - /mnt/e/Projects/www/lnhost/backend/server.py:161 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 22:05:43 - /mnt/e/Projects/www/lnhost/backend/server.py:317 (<module>): Server stopped
+2024-02-15 22:06:22 - /mnt/e/Projects/www/lnhost/backend/server.py:311 (<module>): Server started http://localhost:8080
+2024-02-15 22:06:37 - /mnt/e/Projects/www/lnhost/backend/server.py:151 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 22:06:37 - /mnt/e/Projects/www/lnhost/backend/server.py:161 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 22:08:09 - /mnt/e/Projects/www/lnhost/backend/server.py:317 (<module>): Server stopped
+2024-02-15 22:08:11 - /mnt/e/Projects/www/lnhost/backend/server.py:311 (<module>): Server started http://localhost:8080
+2024-02-15 22:08:28 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 22:08:28 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 22:08:35 - /mnt/e/Projects/www/lnhost/backend/server.py:151 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 22:08:35 - /mnt/e/Projects/www/lnhost/backend/server.py:161 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 22:08:51 - /mnt/e/Projects/www/lnhost/backend/server.py:317 (<module>): Server stopped
+2024-02-15 22:08:53 - /mnt/e/Projects/www/lnhost/backend/server.py:311 (<module>): Server started http://localhost:8080
+2024-02-15 22:09:05 - /mnt/e/Projects/www/lnhost/backend/server.py:151 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 22:09:05 - /mnt/e/Projects/www/lnhost/backend/server.py:161 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 22:28:50 - /mnt/e/Projects/www/lnhost/backend/server.py:151 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 22:28:50 - /mnt/e/Projects/www/lnhost/backend/server.py:161 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 22:37:39 - /mnt/e/Projects/www/lnhost/backend/server.py:317 (<module>): Server stopped
+2024-02-15 22:37:40 - /mnt/e/Projects/www/lnhost/backend/server.py:362 (<module>): Server started http://localhost:8080
+2024-02-15 22:37:54 - /mnt/e/Projects/www/lnhost/backend/server.py:202 (do_GET): 127.0.0.1 is Asking serendipity SETUP.
+2024-02-15 22:37:54 - /mnt/e/Projects/www/lnhost/backend/server.py:212 (do_GET): Executing setup_serendipity command.tmp
+2024-02-15 22:40:40 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 22:40:40 - /mnt/e/Projects/www/lnhost/backend/server.py:82 (do_GET): E: Already installed.
+2024-02-15 22:41:03 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 22:41:03 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 22:41:29 - /mnt/e/Projects/www/lnhost/backend/server.py:49 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 22:41:29 - /mnt/e/Projects/www/lnhost/backend/server.py:59 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 22:59:08 - /mnt/e/Projects/www/lnhost/backend/server.py:368 (<module>): Server stopped
+2024-02-15 22:59:14 - /mnt/e/Projects/www/lnhost/backend/server.py:368 (<module>): Server started http://localhost:8080
+2024-02-15 23:00:10 - /mnt/e/Projects/www/lnhost/backend/server.py:52 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 23:00:10 - /mnt/e/Projects/www/lnhost/backend/server.py:62 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 23:01:42 - /mnt/e/Projects/www/lnhost/backend/server.py:374 (<module>): Server stopped
+2024-02-15 23:01:44 - /mnt/e/Projects/www/lnhost/backend/server.py:368 (<module>): Server started http://localhost:8080
+2024-02-15 23:02:39 - /mnt/e/Projects/www/lnhost/backend/server.py:52 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 23:02:39 - /mnt/e/Projects/www/lnhost/backend/server.py:62 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 23:04:57 - /mnt/e/Projects/www/lnhost/backend/server.py:374 (<module>): Server stopped
+2024-02-15 23:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:370 (<module>): Server started http://localhost:8080
+2024-02-15 23:14:11 - /mnt/e/Projects/www/lnhost/backend/server.py:52 (do_GET): 127.0.0.1 is Asking nextcloud SETUP.
+2024-02-15 23:14:11 - /mnt/e/Projects/www/lnhost/backend/server.py:62 (do_GET): Executing setup_nextcloud command.tmp
+2024-02-15 23:18:07 - /mnt/e/Projects/www/lnhost/backend/server.py:104 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-15 23:18:07 - /mnt/e/Projects/www/lnhost/backend/server.py:114 (do_GET): Executing setup_kchat command.tmp
+2024-02-15 23:18:46 - /mnt/e/Projects/www/lnhost/backend/server.py:156 (do_GET): 127.0.0.1 is Asking wordpress SETUP.
+2024-02-15 23:18:46 - /mnt/e/Projects/www/lnhost/backend/server.py:166 (do_GET): Executing setup_wordpress command.tmp
+2024-02-15 23:23:24 - /mnt/e/Projects/www/lnhost/backend/server.py:208 (do_GET): 127.0.0.1 is Asking serendipity SETUP.
+2024-02-15 23:23:24 - /mnt/e/Projects/www/lnhost/backend/server.py:218 (do_GET): Executing setup_serendipity command.tmp
+2024-02-16 20:11:49 - /mnt/e/Projects/www/lnhost/backend/server.py:389 (<module>): Server started http://localhost:8080
+2024-02-16 20:11:54 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:11:54 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:11:54 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:11:54 - /mnt/e/Projects/www/lnhost/backend/server.py:336 (do_POST): E: Exception in python server : list index out of range
+2024-02-16 20:14:34 - /mnt/e/Projects/www/lnhost/backend/server.py:390 (<module>): Server started http://localhost:8080
+2024-02-16 20:14:38 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:14:38 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:14:38 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:14:38 - /mnt/e/Projects/www/lnhost/backend/server.py:337 (do_POST): E: Exception in python server : list index out of range
+2024-02-16 20:14:49 - /mnt/e/Projects/www/lnhost/backend/server.py:396 (<module>): Server stopped
+2024-02-16 20:14:50 - /mnt/e/Projects/www/lnhost/backend/server.py:391 (<module>): Server started http://localhost:8080
+2024-02-16 20:15:17 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:15:17 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:15:17 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:15:17 - /mnt/e/Projects/www/lnhost/backend/server.py:338 (do_POST): E: Exception in python server : list index out of range
+2024-02-16 20:33:12 - /mnt/e/Projects/www/lnhost/backend/server.py:392 (<module>): Server started http://localhost:8080
+2024-02-16 20:33:16 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:33:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:33:16 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:33:16 - /mnt/e/Projects/www/lnhost/backend/server.py:339 (do_POST): E: Exception in python server : list index out of range
+2024-02-16 20:34:04 - /mnt/e/Projects/www/lnhost/backend/server.py:398 (<module>): Server stopped
+2024-02-16 20:34:04 - /mnt/e/Projects/www/lnhost/backend/server.py:391 (<module>): Server started http://localhost:8080
+2024-02-16 20:34:08 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:34:08 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:34:08 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:37:27 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:37:32 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:37:32 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:40:23 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:40:23 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:40:23 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:40:24 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:40:24 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:40:24 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:46:51 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:49:16 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:49:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:49:16 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:49:16 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:49:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:49:17 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:57:38 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:58:10 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:58:10 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:58:10 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:59:16 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:59:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:59:16 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:59:20 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:59:20 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=nextcloud&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:59:20 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 20:59:32 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 20:59:32 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=appBDD&appName=kchat&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 20:59:32 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:39:04 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:39:04 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:39:04 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:39:22 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:39:22 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:39:22 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:39:26 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:39:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:39:26 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:39:44 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:39:44 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:39:44 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:40:09 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:40:09 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:40:09 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:40:19 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:40:19 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:40:19 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:41:18 - /mnt/e/Projects/www/lnhost/backend/server.py:402 (<module>): Server started http://localhost:8080
+2024-02-16 21:41:22 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:41:22 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:41:22 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:41:33 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:41:33 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=nextcloud&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:41:33 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:41:33 - /mnt/e/Projects/www/lnhost/backend/server.py:349 (do_POST): E: Exception in python server : [Errno 39] Directory not empty: '/home/tmp/apps/nextcloud'
+2024-02-16 21:41:59 - /mnt/e/Projects/www/lnhost/backend/server.py:408 (<module>): Server stopped
+2024-02-16 21:42:00 - /mnt/e/Projects/www/lnhost/backend/server.py:402 (<module>): Server started http://localhost:8080
+2024-02-16 21:42:04 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:42:04 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:42:04 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:42:12 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:42:12 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=nextcloud&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:42:12 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:42:12 - /mnt/e/Projects/www/lnhost/backend/server.py:349 (do_POST): E: Exception in python server : [Errno 39] Directory not empty: '/home/tmp/apps/nextcloud'
+2024-02-16 21:44:30 - /mnt/e/Projects/www/lnhost/backend/server.py:408 (<module>): Server stopped
+2024-02-16 21:44:31 - /mnt/e/Projects/www/lnhost/backend/server.py:402 (<module>): Server started http://localhost:8080
+2024-02-16 21:44:35 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:44:35 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:44:35 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:44:39 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:44:39 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:44:39 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:44:46 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:44:46 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:44:46 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:44:46 - /mnt/e/Projects/www/lnhost/backend/server.py:349 (do_POST): E: Exception in python server : [Errno 39] Directory not empty: '/home/tmp/apps/kchat'
+2024-02-16 21:45:38 - /mnt/e/Projects/www/lnhost/backend/server.py:408 (<module>): Server stopped
+2024-02-16 21:45:41 - /mnt/e/Projects/www/lnhost/backend/server.py:402 (<module>): Server started http://localhost:8080
+2024-02-16 21:45:51 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:45:51 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:45:51 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:45:58 - /mnt/e/Projects/www/lnhost/backend/server.py:262 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:45:58 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:45:58 - /mnt/e/Projects/www/lnhost/backend/server.py:279 (do_POST): Executing built-in command.
+2024-02-16 21:45:58 - /mnt/e/Projects/www/lnhost/backend/server.py:349 (do_POST): E: Exception in python server : [Errno 39] Directory not empty: '/home/tmp/apps/kchat'
+2024-02-16 21:56:09 - /mnt/e/Projects/www/lnhost/backend/server.py:408 (<module>): Server stopped
+2024-02-16 21:56:10 - /mnt/e/Projects/www/lnhost/backend/server.py:403 (<module>): Server started http://localhost:8080
+2024-02-16 21:56:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:56:16 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:56:16 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:56:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:56:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:56:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:57:47 - /mnt/e/Projects/www/lnhost/backend/server.py:409 (<module>): Server stopped
+2024-02-16 21:57:48 - /mnt/e/Projects/www/lnhost/backend/server.py:403 (<module>): Server started http://localhost:8080
+2024-02-16 21:57:51 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:57:51 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:57:51 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:57:59 - /mnt/e/Projects/www/lnhost/backend/server.py:105 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-16 21:57:59 - /mnt/e/Projects/www/lnhost/backend/server.py:115 (do_GET): Executing setup_kchat command.tmp
+2024-02-16 21:59:06 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:59:11 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 21:59:27 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 21:59:27 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=removeApp&appName=kchat&dbPassword=+password&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 21:59:27 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:00:54 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:00:58 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:00:58 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:16 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:16 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:24 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:24 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:24 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:25 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:25 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:25 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:04:31 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:04:31 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:04:31 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:06:15 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:06:15 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:06:15 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:06:20 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:06:20 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:06:20 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:06:31 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:06:32 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:06:32 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:07:55 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:07:55 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:07:55 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:10:46 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:10:50 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:10:50 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:11:15 - /mnt/e/Projects/www/lnhost/backend/server.py:105 (do_GET): 127.0.0.1 is Asking kchat SETUP.
+2024-02-16 22:11:15 - /mnt/e/Projects/www/lnhost/backend/server.py:115 (do_GET): Executing setup_kchat command.tmp
+2024-02-16 22:13:12 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:350 (do_POST): E: Exception in python server : [Errno 32] Broken pipe
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:16 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:17 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:17 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:17 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:18 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:18 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:18 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:18 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:19 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:20 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:21 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:22 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:22 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:22 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:23 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:24 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:25 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:26 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:27 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:13:28 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:13:28 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:13:28 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:20:56 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:20:56 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:20:56 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:20:59 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:21:02 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:21:02 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:21:02 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:35:29 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:38:28 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:38:32 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:38:32 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:38:32 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:38:32 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:38:32 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:39:16 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:39:21 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:39:21 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:52 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:55 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:56 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:40:58 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getStatus&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:41:00 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.
+2024-02-16 22:41:02 - /mnt/e/Projects/www/lnhost/backend/server.py:263 (do_POST): Received POST request from 127.0.0.1 on path: /
+2024-02-16 22:41:02 - /mnt/e/Projects/www/lnhost/backend/server.py:264 (do_POST): POST data: action=run_builtInCommand&command=getInfos&APIkey=9ec71804-7d73-46b8-98b2-660a8acfd31b
+2024-02-16 22:41:02 - /mnt/e/Projects/www/lnhost/backend/server.py:280 (do_POST): Executing built-in command.

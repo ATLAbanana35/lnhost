@@ -1,0 +1,6 @@
+<Files "*">
+    Deny from all
+</Files>
+<Directory "*">
+    Deny from all
+</Directory>

@@ -1,0 +1,83 @@
+MySQL ealready installed!
+
+MySQL is started.
+
+Connextion à la dbb
+
+Création de la base de données et de l'utilisateur...
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+ERROR 1396 (HY000) at line 2: Operation CREATE USER failed for 'root'@'%'
+
+
+
+   INFO  Application key set successfully.  
+
+
+
+
+
+   Illuminate\Database\QueryException 
+
+
+
+  SQLSTATE[HY000] [2002] Connection refused (SQL: select * from information_schema.tables where table_schema = kchatdb and table_name = migrations and table_type = 'BASE TABLE')
+
+
+
+  at /home/tmp/apps/kchat/vendor/laravel/framework/src/Illuminate/Database/Connection.php:760
+
+    756▕         // If an exception occurs when attempting to run a query, we'll format the error
+
+    757▕         // message to include the bindings with SQL, which will make this exception a
+
+    758▕         // lot more helpful to the developer instead of just the database's errors.
+
+    759▕         catch (Exception $e) {
+
+  ➜ 760▕             throw new QueryException(
+
+    761▕                 $query, $this->prepareBindings($bindings), $e
+
+    762▕             );
+
+    763▕         }
+
+    764▕     }
+
+
+
+      [2m+39 vendor frames [22m
+
+  40  /home/tmp/apps/kchat/artisan:37
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+USER:root,
+
+ADRESS:172.24.58.222:MYSQL_PORT=49208
+
+PASSWORD:DEFINED
+
+SOCKET:/home/tmp/mysql/mysql.sock
+
+CONFIG:/home/tmp/mysql/my.cnf
+
+DATABASE_NAME:kchatdb
+
+PLEASE RUN SETUP_PART_2!
+
+
+
+starting apache
+
+Apache conf already installed in /home/tmp/apache2-conf
+
+[Fri Feb 16 22:11:21.472177 2024] [so:warn] [pid 2966] AH01574: module php_module is already loaded, skipping
+
+XY__SH::EXIT::SH::XY
+
+%__NXT_OUT_stop__NXT_OUT_%
